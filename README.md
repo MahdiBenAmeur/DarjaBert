@@ -43,30 +43,6 @@ Install with:
 pip install torch datasets scikit-learn pandas matplotlib tqdm
 ```
 
----
-
-## 🔧 Setup & Installation
-1. Clone this repo:
-   ```bash
-git clone https://github.com/yourusername/DarjaBERT.git
-cd DarjaBERT
-```
-2. (Optional) Create a virtual environment:
-   ```bash
-python3 -m venv env
-source env/bin/activate  # macOS/Linux
-env\Scripts\activate     # Windows
-```
-3. Install requirements:
-   ```bash
-pip install -r requirements.txt
-```
-4. Open and run the notebook:
-   ```bash
-jupyter notebook DarjaBert_NB.ipynb
-```
-
----
 
 ## 🗂 Data Loading & Cleaning
 - Dataset: `khaled123/Tunisian_Dialectic_English_Derja` via Hugging Face
