@@ -16,16 +16,15 @@ This repository hosts a Jupyter notebook where **I rebuilt the BERT encoder arch
 
 ## 📚 Table of Contents
 1. [Prerequisites](#prerequisites)
-2. [Setup & Installation](#setup--installation)
-3. [Data Loading & Cleaning](#data-loading--cleaning)
-4. [Tokenization & BPE Vocabulary](#tokenization--bpe-vocabulary)
-5. [Building Transformer Layers](#building-transformer-layers)
-6. [Masked Language Model Training](#masked-language-model-training)
-7. [Checkpointing & Hyperparameter Tuning](#checkpointing--hyperparameter-tuning)
-8. [Fine-Tuning for Sentiment Analysis](#fine-tuning-for-sentiment-analysis)
-9. [Results & Metrics](#results--metrics)
-10. [Next Steps & Improvements](#next-steps--improvements)
-11. [Contact & License](#contact--license)
+2. [Data Loading & Cleaning](#data-loading--cleaning)
+3. [Tokenization & BPE Vocabulary](#tokenization--bpe-vocabulary)
+4. [Building Transformer Layers](#building-transformer-layers)
+5. [Masked Language Model Training](#masked-language-model-training)
+6. [Checkpointing & Hyperparameter Tuning](#checkpointing--hyperparameter-tuning)
+7. [Fine-Tuning for Sentiment Analysis](#fine-tuning-for-sentiment-analysis)
+8. [Results & Metrics](#results--metrics)
+9. [Next Steps & Improvements](#next-steps--improvements)
+10. [Contact ](#contact--license)
 
 ---
 
@@ -133,9 +132,8 @@ evaluate_accuracy(sa_model, ...)
 
 ---
 
-## 📬 Contact & License
+## 📬 Contact 
 - **Author**: Mahdi Ben Ameur
 - **LinkedIn**: https://www.linkedin.com/in/mahdi-ben-ameur-5089ba240/
-- **License**: MIT (see [LICENSE](LICENSE))
 
 Feel free to open issues or reach out for questions or suggestions!
